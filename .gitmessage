@@ -1,0 +1,15 @@
+# Conventional Commit Template
+
+# <type>(<scope>): <subject>
+#
+# Why
+# - <why this change is needed>
+#
+# What
+# - <key change 1>
+# - <key change 2>
+#
+# Footer
+# BREAKING CHANGE: <details>
+# Refs: #<issue>
+

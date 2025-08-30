@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "com.github.karais89.ui.navigation": {
+      "version": "file:../Modules/com.github.karais89.ui.navigation",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.github.karais89.ui.popup": {
+      "version": "file:../Modules/com.github.karais89.ui.popup",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.github.karais89.ui.tutorial": {
+      "version": "file:../Modules/com.github.karais89.ui.tutorial",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,

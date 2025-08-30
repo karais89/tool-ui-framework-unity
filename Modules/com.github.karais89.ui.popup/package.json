@@ -1,0 +1,16 @@
+{
+  "name": "com.github.karais89.ui.popup",
+  "displayName": "UI Popup",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "UI popup/overlay module for the tool UI framework.",
+  "author": { "name": "karais89" },
+  "samples": [
+    {
+      "displayName": "Minimal",
+      "description": "Minimal setup and usage example.",
+      "path": "Samples~/Minimal"
+    }
+  ]
+}
+
